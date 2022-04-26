@@ -1,0 +1,67 @@
+<html>
+	
+	<head>
+		<title>
+			Benavides
+		</title>
+		<link rel="stylesheet" href="estilos actualizado.css">
+		<link rel="shortcut icon" href="benavides.jpg">
+
+		
+		
+	</head>
+	<body>
+	<div class="div1">
+	<center>
+	
+		<img src=logo.png class="img">
+		</center>
+		<h1 id="fuente-royalacid">
+			
+				Sentirte Acompañado es Sentirte Mejor
+			
+		</h1>
+		</div>
+		<center>
+		<div class="div2">
+		<marquee behaivor="alternate">
+		
+		<img src=agua.jpg class="leo">
+		<img src=productos.jpg class="leo">
+		<img src=cotonetes.jpg class="leo">
+		</marquee>
+	
+		</div>
+		</center>
+			
+		<center>
+		<br>
+		<div class="navegacion">
+		
+			
+				<div class="navegacion-item"><A href="index.html"> <img src=Principal.png> </A></div>
+				<div class="navegacion-item"><A href="historia.html"> <img src=historia.png> </A></div>
+				<div class="navegacion-item"><A href="productos.html"> <img src=productos.png> </A></div>
+				<div class="navegacion-item"><A href="tabla.html"> <img src=contacto.png> </A></div>
+			
+		
+		</div>
+		</center>
+		<br>
+		<div class="div4">
+		<p class="ois">
+		<center>
+				<b><i>
+				&copy;2022.Derechos reservados. <br>
+				Desarrollado por: Velazquez Lopez Gael
+				Matricula:01905397
+				Grupo:604<br>
+				Plantel Nueva Tijuana
+				</div>
+		</center>
+		</p>
+			
+		
+	</body>
+
+</html>
